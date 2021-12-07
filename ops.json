@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "1e81f096-96d7-3ed9-aacd-f94a3f718b15",
+    "name": "SprezziMan",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ff4a04c4-da47-4e6a-9c7f-12aee6108815",
+    "name": "Pepposprezzo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "79ac005e-bb9d-4ad1-8c86-1da65f5bec40",
+    "name": "peppo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
